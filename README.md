@@ -101,6 +101,3 @@ gosh> cd $PWD
 - Поддержка конвейеров через `os.Pipe()`
 - Обработка ошибок и graceful shutdown
 
-## Лицензия
-
-MIT License
